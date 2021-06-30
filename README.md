@@ -1,7 +1,7 @@
 # NLW-6-DISCOVER
 
 <h1 align="center">
-  <img alt="Rocket.Q" title="Rocket.Q" src=".github/rocketq.svg" width="220px" />
+  <img alt="Rocket.Q" title="Rocket.Q" src="https://github.com/rocketseat-education/nlw-06-discover/raw/main/.github/rocketq.png" width="220px" />
 </h1>
 
 <p align="center">
@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <img alt="Rocket.Q" src=".github/Rocket_Q.png" width="100%">
+  <img alt="Rocket.Q" src="https://github.com/rocketseat-education/nlw-06-discover/raw/main/.github/Rocket_Q.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
